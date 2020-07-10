@@ -1,0 +1,4 @@
+Mask
+Non_mask
+Social_Distance
+No_Social_Distance
